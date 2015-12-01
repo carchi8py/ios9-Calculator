@@ -90,6 +90,9 @@
                                                     <color key="titleColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                                                     <color key="titleShadowColor" red="0.89094065659999999" green="0.89094065659999999" blue="0.89094065659999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
+                                                <connections>
+                                                    <action selector="operatorPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="hY2-Hb-BEM"/>
+                                                </connections>
                                             </button>
                                         </subviews>
                                         <animations/>
@@ -149,6 +152,9 @@
                                                     <color key="titleColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                                                     <color key="titleShadowColor" red="0.89094065659999999" green="0.89094065659999999" blue="0.89094065659999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
+                                                <connections>
+                                                    <action selector="operatorPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="n2x-5f-dqF"/>
+                                                </connections>
                                             </button>
                                         </subviews>
                                         <animations/>
@@ -208,6 +214,9 @@
                                                     <color key="titleColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                                                     <color key="titleShadowColor" red="0.89094065659999999" green="0.89094065659999999" blue="0.89094065659999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
+                                                <connections>
+                                                    <action selector="operatorPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="bfT-ac-WN9"/>
+                                                </connections>
                                             </button>
                                         </subviews>
                                         <animations/>
@@ -239,6 +248,9 @@
                                                     <color key="titleColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                                                     <color key="titleShadowColor" red="0.89094065659999999" green="0.89094065659999999" blue="0.89094065659999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
+                                                <connections>
+                                                    <action selector="clearPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="LXa-bh-3Ip"/>
+                                                </connections>
                                             </button>
                                             <button opaque="NO" tag="4" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="doB-PP-VRC">
                                                 <rect key="frame" x="421" y="0.0" width="140" height="95"/>
@@ -250,6 +262,9 @@
                                                     <color key="titleColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                                                     <color key="titleShadowColor" red="0.89094065659999999" green="0.89094065659999999" blue="0.89094065659999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
+                                                <connections>
+                                                    <action selector="operatorPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="3OT-Au-8Ws"/>
+                                                </connections>
                                             </button>
                                         </subviews>
                                         <animations/>
@@ -271,6 +286,9 @@
                                                     <color key="titleColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                                                     <color key="titleShadowColor" red="0.89094065659999999" green="0.89094065659999999" blue="0.89094065659999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 </state>
+                                                <connections>
+                                                    <action selector="equalsPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="UKq-dg-zPe"/>
+                                                </connections>
                                             </button>
                                         </subviews>
                                         <animations/>
